@@ -1,0 +1,32 @@
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\bin\Debug\ScalablePictureBox.dll
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\bin\Debug\ScalablePictureBox.pdb
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\QAlbum.ScalablePictureBoxImp.resources
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\QAlbum.ScalablePictureBox.resources
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\QAlbum.PictureTracker.resources
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\QAlbum.Properties.Resources.resources
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\QAlbum.TransparentButton.resources
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\ScalablePictureBox.csproj.GenerateResource.Cache
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\ScalablePictureBox.dll
+C:\DEV\Exemples\exemples\Visionneuse\ScalablePictureBox_src (1)\ScalablePictureBoxDemo v3\ScalablePictureBox\obj\Debug\ScalablePictureBox.pdb
+C:\DEV\ScalablePictureBox\bin\Debug\ScalablePictureBox.dll
+C:\DEV\ScalablePictureBox\bin\Debug\ScalablePictureBox.pdb
+C:\DEV\ScalablePictureBox\obj\Debug\QAlbum.ScalablePictureBoxImp.resources
+C:\DEV\ScalablePictureBox\obj\Debug\QAlbum.ScalablePictureBox.resources
+C:\DEV\ScalablePictureBox\obj\Debug\QAlbum.PictureTracker.resources
+C:\DEV\ScalablePictureBox\obj\Debug\QAlbum.Properties.Resources.resources
+C:\DEV\ScalablePictureBox\obj\Debug\QAlbum.TransparentButton.resources
+C:\DEV\ScalablePictureBox\obj\Debug\ScalablePictureBox.csproj.GenerateResource.Cache
+C:\DEV\ScalablePictureBox\obj\Debug\ScalablePictureBox.dll
+C:\DEV\ScalablePictureBox\obj\Debug\ScalablePictureBox.pdb
+C:\DEV\ScalablePictureBox\obj\Debug\ScalablePictureBox.csprojResolveAssemblyReference.cache
+C:\RECO\Bibliotheque\ScalablePictureBox\bin\Debug\ScalablePictureBox.dll
+C:\RECO\Bibliotheque\ScalablePictureBox\bin\Debug\ScalablePictureBox.pdb
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\QAlbum.ScalablePictureBoxImp.resources
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\QAlbum.ScalablePictureBox.resources
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\QAlbum.PictureTracker.resources
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\QAlbum.Properties.Resources.resources
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\QAlbum.TransparentButton.resources
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\ScalablePictureBox.csproj.GenerateResource.Cache
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\ScalablePictureBox.dll
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\ScalablePictureBox.pdb
+C:\RECO\Bibliotheque\ScalablePictureBox\obj\Debug\ScalablePictureBox.csprojResolveAssemblyReference.cache
